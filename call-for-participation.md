@@ -19,7 +19,7 @@ We’re launching **open-resilient-network-graphs** — community-driven open sp
 **First deliverables** already drafted (see repo). No coding required to start — specs are Markdown + math.
 
 **Get involved**:
-→ Star & fork: [github.com/YOURNAME/openrng](link)
+→ Star & fork: [github.com/lsylvain/open-resilient-network-graphs](https://github.com/lsylvain/open-resilient-network-graphs)
 → Open an Issue with your ideas
 → Join the discussion thread on X (link to your post)
 
