@@ -1,12 +1,13 @@
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
-# open-resilient-network-graphs — A project to develop open specifications for Resilient Network Graphs
+
+# open-resilient-network-graphs — OpenRNG
 
 **Community-driven, vendor-neutral specifications for quasi-random flat data center networks.**
 
-Goal: Produce vendor-neutral, openly licensed specifications for quasi-random/expander-based flat data center networks, including ShuffleBox-style passive optical components, topology parameters, routing behaviors, and testing methodologies.
+**Goal**: Produce vendor-neutral, openly licensed specifications for quasi-random/expander-based flat data center networks, including ShuffleBox-style passive optical components, topology parameters, routing behaviors, and testing methodologies.
 
-Inspired by AWS Resilient Network Graphs (RNG) and earlier work on Jellyfish / expander graphs, we aim to produce open specs that accelerate innovation in high-efficiency, low-power data center interconnects.
+Inspired by AWS Resilient Network Graphs (RNG) and earlier work on Jellyfish / expander graphs.
 
 ### Why This Matters
 Modern data centers face exploding power, cabling, and cost pressures — especially for AI workloads.  
@@ -42,12 +43,15 @@ We want to make these benefits available to the entire industry through open, co
    Topology generators, simulator extensions, example cabling patterns.
 
 ### How to Contribute
-- **Discussion**: Open an Issue or join the [Discord/Slack/Mailing list] (link TBD)
-- **Specs**: Submit Pull Requests against the `specs/` folder
-- **Governance**: Apache 2.0 license. Lightweight steering group (open to volunteers)
-- **First step**: Review the [Topology v0.1 Draft](specs/topology-v0.1.md)
+- See [CONTRIBUTING.md](CONTRIBUTING.md) for full guidelines.
+- **Discussion**: Open an Issue or join the original X thread.
+- **Specs**: Submit Pull Requests against the `specs/` folder.
+- **First step**: Review the [Topology v0.1 Draft](specs/topology-v0.1.md).
 
 ### Getting Started
 ```bash
 git clone https://github.com/lsylvain/open-resilient-network-graphs.git
 cd open-resilient-network-graphs
+
+# For visualization tools
+pip install networkx matplotlib
