@@ -47,5 +47,5 @@ We want to make these benefits available to the entire industry through open, co
 
 ### Getting Started
 ```bash
-git clone https://github.com/openrng/project.git
+git clone https://github.com/lsylvain/open-resilient-network-graphs.git
 cd project
