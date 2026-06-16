@@ -1,4 +1,4 @@
-# QuasiRandom-DC — Open Specifications for Resilient Network Graphs
+# open-resilient-network-graphs — A project to develop open specifications for Resilient Network Graphs
 
 **Community-driven, vendor-neutral specifications for quasi-random flat data center networks.**
 
