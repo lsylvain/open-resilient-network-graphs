@@ -21,7 +21,7 @@ We’re launching **open-resilient-network-graphs** — community-driven open sp
 **Get involved**:
 → Star & fork: [github.com/lsylvain/open-resilient-network-graphs](https://github.com/lsylvain/open-resilient-network-graphs)
 → Open an Issue with your ideas
-→ Join the discussion thread on X (link to your post)
+→ Join the discussion thread on X ([Amazon's Data Center Breakthrough Might Change The Future Of Cloud Storage](https://x.com/sanctity_of/status/2066556560449347816?s=20))
 
 Let’s make high-efficiency, low-power data center networking accessible to everyone.  
 If you believe random/expander graphs + passive shuffles are the future — this is your chance to help shape it.
