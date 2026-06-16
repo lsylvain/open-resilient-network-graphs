@@ -1,3 +1,5 @@
+[![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 # open-resilient-network-graphs — A project to develop open specifications for Resilient Network Graphs
 
 **Community-driven, vendor-neutral specifications for quasi-random flat data center networks.**
@@ -48,4 +50,4 @@ We want to make these benefits available to the entire industry through open, co
 ### Getting Started
 ```bash
 git clone https://github.com/lsylvain/open-resilient-network-graphs.git
-cd project
+cd open-resilient-network-graphs
